@@ -1,0 +1,12 @@
+color template of the website:
+Deep Purple (#7D3C98): A rich and deep shade of purple, it adds elegance and sophistication.
+
+Soft Lilac (#B57EDC): A lighter and softer version of lilac, creating a gentle and calming effect.
+
+Dusty Mauve (#A86D94): A muted and earthy mauve tone, providing a touch of subtlety.
+
+Lavender Gray (#C5C5C5): A neutral grayish lavender that can serve as a background or accent color.
+
+Amethyst (#9966CC): A vibrant and slightly reddish-purple hue, adding energy to the palette.
+
+Pastel Purple (#DABADD): A delicate pastel purple for a softer touch and diversity in the palette.

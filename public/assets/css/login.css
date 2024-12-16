@@ -1,0 +1,127 @@
+
+@font-face {
+    font-family: 'mj_yalda';
+    src: url("../fonts/Koofi/Mj_Yalda\ Bold.TTF");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "b02";
+    src: url("../fonts/Koofi/B02\ \(575\).TTF");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "B_kufigraph";
+    src: url("../fonts/Koofi/B\ Kufigraph.TTF");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "data_sarve2";
+    src: url("../fonts/Koofi/dara-sarve2.TTF");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "data_zar";
+    src: url("../fonts/Koofi/dara-zar.TTF");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "mj_normal";
+    src: url("../fonts/Koofi/Mj_Normal.TTF");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "mj_shadow";
+    src: url("../fonts/Koofi/Mj_Shadow.TTF");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+.login-wrapper {
+    border-radius: 0.25rem;
+    background-color: #FFFFFF;
+    padding: 4rem 2rem 3rem 2rem;
+    border: 1px solid #efefef;
+    width: 22rem;
+    box-shadow: 0rem 0rem 0.2rem 0.1rem rgba(0,0,0,0.06);
+}
+
+.login-logo {
+    margin-bottom: 3.6rem;
+    display: flex;
+    justify-content: center;
+}
+
+.login-form{
+    font-family : "B Titr";
+    font-weight: 700 !important;
+}
+
+.login-logo img {
+    width: 5rem;
+}
+
+
+.login-title {
+    margin-bottom: .7rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.login-info {
+    margin-bottom: 0.6rem;
+    font-size: 0.8rem;
+    color: #333333;
+}
+
+.login-input-text {
+    margin-bottom: 1rem;
+}
+
+.login-input-text input{
+    outline: none;
+    border: 1px solid #efefef;
+    display: block;
+    width: 100%;
+    border-radius: 0.25rem;
+    font-size: 0.9rem;
+    line-height: 2rem;
+    /*background-color: #f7f7f7;*/
+}
+
+
+
+.login-btn {
+    margin-bottom: 2rem;
+}
+
+
+.login-terms-and-conditions {
+    font-size: 0.8rem;
+    font-weight: 700;
+}
+
+.custom-btn{
+    background-color: #0d6efd;
+    outline: none;
+    border: none;
+    color: #FFFFFF;
+}
+
+.custom-alert{
+    background-color: #FFEDED;
+    color: #EC4545;
+    border: 1px solid #FFEDED;
+}
